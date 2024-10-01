@@ -49,3 +49,8 @@ Funções de Renderização:
 - desenhar(): Desenha os elementos do jogo na tela, incluindo o fundo, os carros e a interface do usuário.
 - mover_jogador(): Lida com a entrada do teclado e movimenta o carro do jogador.
 - lidar_colisao(): Verifica e gerencia colisões entre os carros e outros objetos.
+
+  # Integrantes:
+  - Leonardo de Farias
+  - Giancarlo Cestarolli
+  - Gustavo Laur
