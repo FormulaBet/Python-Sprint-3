@@ -3,7 +3,8 @@
 Este é um jogo simples de corrida desenvolvido em Python utilizando a biblioteca Pygame. O jogador controla um carro (carro vermelho) e compete contra um carro de computador (carro roxo) em um percurso com obstáculos. O objetivo é completar os níveis, evitando colisões e chegando à linha de chegada. O jogo é apenas um protótipo, contém alguns bugs que serão resolvidos para a Sprint 4!
 
 - Link para vídeo de explicação: https://www.youtube.com/watch?v=QaySOTDh558
-  NOTA: No final do vídeo, abrimos o jogo para uma demonstração da gameplay; no entanto, o gravador de tela não conseguiu capturar a janela do 'Pygame'. Por favor, considere apenas a explicação do código.
+
+   NOTA: No final do vídeo, abrimos o jogo para uma demonstração da gameplay; no entanto, o gravador de tela não conseguiu capturar a janela do 'Pygame'. Por favor, considere apenas a explicação do código.
   
 # Bibliotecas Necessárias:
 - pygame: Biblioteca para desenvolvimento de jogos em Python.
