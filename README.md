@@ -27,10 +27,10 @@ Executar o Jogo: Execute o script Python:
 python main.py
 
 # Controles do Jogo
-Tecla W: Acelera o carro do jogador.
-Tecla S: Reverte o carro do jogador.
-Tecla A: Vira o carro do jogador para a esquerda.
-Tecla D: Vira o carro do jogador para a direita.
+- Tecla W: Acelera o carro do jogador.
+- Tecla S: Reverte o carro do jogador.
+- Tecla A: Vira o carro do jogador para a esquerda.
+- Tecla D: Vira o carro do jogador para a direita.
 
 
 # Estrutura do Código
