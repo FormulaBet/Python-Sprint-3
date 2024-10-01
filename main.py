@@ -134,7 +134,6 @@ class CarroComputador(CarroGeral):
 
     def desenhar(self, janela):
         super().desenhar(janela)
-        # self.desenhar_pontos(janela)
 
     def calcular_angulo(self):
         target_x, target_y = self.caminho[self.ponto_atual]
@@ -259,8 +258,8 @@ while executar:
         centralizar_texto(JANELA, FONTE_PRINCIPAL, "Você ganhou!")
         pygame.display.update()
         pygame.time.wait(5000)
-        executar = False  # Termina o loop do jogo
-        break  # Sai do loop principal
+        executar = False  
+        break  
 
     desenhar(JANELA, imagens, carro_jogador, carro_computador, info)
 
