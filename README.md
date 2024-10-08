@@ -53,6 +53,6 @@ Funções de Renderização:
 - lidar_colisao(): Verifica e gerencia colisões entre os carros e outros objetos.
 
   # Integrantes:
-  - Leonardo de Farias
-  - Giancarlo Cestarolli
-  - Gustavo Laur
+  - Leonardo de Farias - 555211
+  - Giancarlo Cestarolli - 555248
+  - Gustavo Laur - 556603
